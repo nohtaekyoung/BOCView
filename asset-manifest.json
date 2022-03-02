@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.d4b4c721.js",
-    "index.html": "/index.html",
-    "main.d4b4c721.js.map": "/static/js/main.d4b4c721.js.map"
+    "main.js": "/BOCView/static/js/main.82f0374e.js",
+    "index.html": "/BOCView/index.html",
+    "main.82f0374e.js.map": "/BOCView/static/js/main.82f0374e.js.map"
   },
   "entrypoints": [
-    "static/js/main.d4b4c721.js"
+    "static/js/main.82f0374e.js"
   ]
 }
