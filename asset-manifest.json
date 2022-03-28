@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.c261443c.js",
-    "index.html": "/index.html",
-    "main.c261443c.js.map": "/static/js/main.c261443c.js.map"
+    "main.css": "/BOCView/static/css/main.703749fb.css",
+    "main.js": "/BOCView/static/js/main.3738d0c9.js",
+    "index.html": "/BOCView/index.html",
+    "main.3738d0c9.js.map": "/BOCView/static/js/main.3738d0c9.js.map"
   },
   "entrypoints": [
-    "static/js/main.c261443c.js"
+    "static/css/main.703749fb.css",
+    "static/js/main.3738d0c9.js"
   ]
 }
